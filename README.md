@@ -27,6 +27,12 @@ Para acessar o meu portfólio online, basta clicar no link abaixo, onde você po
 
 - [Portfólio Online](https://github.com/elidianaandrade/dio-lab-portfolio.git)
 
+## Imagens do portfólio
+![Screenshot from 2024-12-15 12-54-09](https://github.com/user-attachments/assets/f148f36f-a4d3-472f-92f2-8ef1e8007e20)
+![Screenshot from 2024-12-15 12-53-51](https://github.com/user-attachments/assets/4a724cc4-9139-4600-a26d-cf0ab3c29d78)
+![Screenshot from 2024-12-15 12-53-44](https://github.com/user-attachments/assets/6a3a60fa-6ea4-4418-8ab5-5a67e2e1e0ab)
+![Screenshot from 2024-12-15 12-53-29](https://github.com/user-attachments/assets/27207eed-ddd5-46d8-ab5b-535e6b8855f0)
+
 ## Conclusão
 
 Este projeto foi uma oportunidade incrível de aplicar tudo o que aprendi sobre desenvolvimento front-end e ferramentas essenciais como Git e GitHub. Ao final, consegui construir um portfólio profissional e interativo que certamente será um diferencial nas minhas futuras entrevistas técnicas e projetos profissionais. 
