@@ -1,2 +1,2 @@
 # desafio-dio-lab-portfolio
-Portfólio criado com base no trabalho de Eliana de Andrade, instrutora DIO, expandido para minhas experiências
+Portfólio criado com base no trabalho de Elidiana Andrade, instrutora DIO, expandido para minhas experiências
